@@ -1,0 +1,44 @@
+[
+	{
+		"id":1,
+		"name": "Banana",
+		"color": "Yellow",
+		"vitamins": [
+			{
+				"name": "Vitamin C"
+			},
+			{
+				"name": "Vitamin A"
+			}
+			]
+	},
+	{
+		"id":2,
+		"name": "Orange",
+		"color": "Orange",
+		"vitamins": [
+			{
+				"name": "Vitamin C"
+			},
+			{
+				"name": "Vitamin E"
+			}
+		]
+	},
+	{
+		"id":3,
+		"name": "Apple",
+		"color": "Red",
+		"vitamins": [
+			{
+				"name": "Vitamin A"
+			},
+			{
+				"name": "Vitamin B1"
+			},
+			{
+				"name": "Vitamin B2"
+			}
+		]
+	}
+]
